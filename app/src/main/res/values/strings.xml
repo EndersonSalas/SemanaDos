@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SemanaDos</string>
+    <string name="digit_url">Ingresar una URL</string>
+    <string name="button_download">Descargar</string>
+    <string name="content_url">Contenido URL</string>
+    <string name="no_access">No hay acceso a Internet</string>
+    <string name="access_internet">Hay acceso a Internet</string>
+</resources>
